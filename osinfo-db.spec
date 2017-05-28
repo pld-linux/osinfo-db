@@ -1,7 +1,7 @@
 Summary:	osinfo database
 Summary(pl.UTF-8):	Baza danych osinfo
 Name:		osinfo-db
-Version:	20170107
+Version:	20170423
 Release:	1
 License:	GPL v2
 Group:		Libraries
@@ -37,4 +37,3 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %{_datadir}/osinfo
-
