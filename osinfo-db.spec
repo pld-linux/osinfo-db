@@ -6,7 +6,7 @@ Release:	1
 License:	GPL v2
 Group:		Libraries
 Source0:	https://releases.pagure.org/libosinfo/%{name}-%{version}.tar.xz
-# Source0-md5:	c1e5cda4155b80401acd4e8265283fe9
+# Source0-md5:	51bfbdda5d7b4ab079bd5f3d9ed6434c
 URL:		https://libosinfo.org/
 BuildRequires:	osinfo-db-tools
 BuildRequires:	xz
