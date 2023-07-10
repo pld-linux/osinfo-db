@@ -1,12 +1,12 @@
 Summary:	osinfo database
 Summary(pl.UTF-8):	Baza danych osinfo
 Name:		osinfo-db
-Version:	20230308
+Version:	20230518
 Release:	1
 License:	GPL v2
 Group:		Libraries
 Source0:	https://releases.pagure.org/libosinfo/%{name}-%{version}.tar.xz
-# Source0-md5:	0293bded4e2b7b22fe87bd629d2b71ce
+# Source0-md5:	01d5f1aeac8ab2120d8cb3a8149ff8d1
 URL:		https://libosinfo.org/
 BuildRequires:	osinfo-db-tools
 BuildRequires:	tar >= 1:1.22
